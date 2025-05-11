@@ -37,3 +37,6 @@ PySpark is the Python API for Apache Spark, a powerful open-source distributed c
 5.Aggregation and Computation:
 -Perform distributed aggregations using groupBy, agg, and window functions.
 -Efficiently process millions or billions of rows using Spark’s in-memory computation.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/21136867-a895-4ea7-84ed-3ddcd8bc2130)
