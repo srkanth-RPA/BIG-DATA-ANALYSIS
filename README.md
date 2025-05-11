@@ -40,3 +40,5 @@ PySpark is the Python API for Apache Spark, a powerful open-source distributed c
 
 #OUTPUT
 ![Image](https://github.com/user-attachments/assets/21136867-a895-4ea7-84ed-3ddcd8bc2130)
+
+![Image](https://github.com/user-attachments/assets/ebbfb4a6-1be7-4858-9ea9-a204521d55a1)
